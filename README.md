@@ -26,7 +26,7 @@ Curious how it was built? See [JOURNEY.md](./JOURNEY.md).
 ## Getting started
 
 ```bash
-git clone https://github.com/8fn4wf8phr-ops/calculator-app.git
+git clone https://github.com/jacquezmonroe/calculator-app.git
 cd calculator-app
 python3 -m http.server 8080
 ```
